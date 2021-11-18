@@ -1,7 +1,5 @@
 # 24-puzzle-problem
 
-Due Date: 9/26/2019
-
 The 24-puzzle is a larger version of the 8-puzzle.
 
 Goal:
